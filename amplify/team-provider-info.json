@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ghajnife-dev-174724-authRole",
+      "UnauthRoleArn": "arn:aws:iam::985844962038:role/amplify-ghajnife-dev-174724-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::985844962038:role/amplify-ghajnife-dev-174724-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-ghajnife-dev-174724-deployment",
+      "UnauthRoleName": "amplify-ghajnife-dev-174724-unauthRole",
+      "StackName": "amplify-ghajnife-dev-174724",
+      "StackId": "arn:aws:cloudformation:ap-south-1:985844962038:stack/amplify-ghajnife-dev-174724/bb45bdf0-9a4e-11ed-91a9-0a8c1cd4e120",
+      "AmplifyAppId": "d9ftwdden7i71"
+    },
+    "categories": {
+      "auth": {
+        "ghajnifeacd423e6": {}
+      },
+      "storage": {
+        "ghajniapp": {}
+      }
+    }
+  }
+}
