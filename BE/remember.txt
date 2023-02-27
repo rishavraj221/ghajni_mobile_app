@@ -1,0 +1,1 @@
+Collection ARN: aws:rekognition:ap-south-1:985844962038:collection/Collection
